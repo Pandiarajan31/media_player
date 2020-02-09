@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "AwesomeProject",
+      "icon":"./android/app/src/images/react.png",
+  "description":"some description about our project",
+  "sdkVersion": "33.0.0",
+  "android":{
+    "package":"com.johncy.myapp",
+     "versionCode":1 , 
+     "icon":"./android/app/src/images/react.png"
+         }
+           }
+  }
